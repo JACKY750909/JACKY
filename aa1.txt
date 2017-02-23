@@ -2,3 +2,7 @@
 
 aa1
 aa2aa2
+<<<<<<< HEAD
+=======
+teacher1·s¥\¯à
+>>>>>>> teacher1
