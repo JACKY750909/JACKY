@@ -1,8 +1,5 @@
 主程式在這邊加了一行
 
 aa1
-aa2aa2
-<<<<<<< HEAD
-=======
-teacher1新功能
->>>>>>> teacher1
+aa2aa2aa2aa2aa2
+
